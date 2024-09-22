@@ -25,7 +25,7 @@
         </button>
         <nav class="header__nav">
             <ul class="nav__list">
-                <li class="nav__item"><a class="nav__link" href="#">О нас</a></li>
+                <li class="nav__item"><a class="nav__link" href="http://127.0.0.1:8000/about">О нас</a></li>
                 <li class="nav__item"><a class="nav__link" href="#">Услуги</a></li>
                 <li class="nav__item"><a class="nav__link" href="#">Услуги по виду клиента</a></li>
                 <li class="nav__item"><a class="nav__link" href="#">Почему мы</a></li>
